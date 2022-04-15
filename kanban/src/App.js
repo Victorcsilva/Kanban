@@ -1,11 +1,12 @@
 import './App.css';
-import Back from '../src/components/Background/background.js'
+import Boxsmall from './components/Box/Box'
 
 function App() {
   return (
     <div className="container">
       <h1 className='title'> Kanban </h1>
-     <Back/>
+     <div> <Boxsmall/> </div>
+    
     </div>
   );
 }
