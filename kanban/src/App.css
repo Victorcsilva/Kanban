@@ -1,12 +1,16 @@
+*{margin: 0;}
+
 .container {
   display: flex;
   min-height: 100vh;
   width: 100%;
-  flex-direction: column;
+  flex-direction:row;
   gap: 2rem;
+  background:#E1E8ED;
  background-image: url('../src/components/imagens/Home.png');
  background-repeat: no-repeat;
  background-position: center
+ 
 ;}
 .title{
   font-size: 38px;
@@ -14,5 +18,20 @@
   font-weight: 700,bold;
   color:#171717;
   margin-left: 60px;
+  margin-top: 85px;
 
+}
+.img{
+  width: 20px;
+  height: 20px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.box{
+  margin-top: 134px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }

@@ -1,11 +1,11 @@
 import './Box.css';
 
-const Boxsmall = (props) => {
+const Box = () => {
 
   return (
-    <div className="boxsmall"></div>
+    <grid className="box"></grid>
   );
 }
 
-export default Boxsmall 
+export default Box
   ;
