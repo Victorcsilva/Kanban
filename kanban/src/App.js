@@ -51,19 +51,19 @@ function App() {
          <Card>
            <p>Background images from humaaans.com</p>
            <img src={Man} className='img' alt='woman'></img>
-           <span className='label_purple'>Sourcing</span>
+           <span className='label_purple'>  Sourcing  </span>
         </Card> 
      </div>  
      <div className='box'> 
         <Card>
            <p>Style Guide</p>
            <img src={Woman} className='img' alt='woman'></img>
-           <span className='label_green'>UI</span>
+           <span className='label_green'>  UI  </span>
          </Card>
          <Card>
            <p>Component Library</p>
            <img src={Woman} className='img' alt='woman'></img>
-           <span className='label_green'>UI</span>
+           <span className='label_green'> UI </span>
          </Card> 
          <Card>
            <p>Sticker Components</p>
