@@ -9,7 +9,7 @@ function Column(props) {
             <div className = "column_border">
             </div>
                 <div className = {`column1 ${color}`}>
-                  <h1 className ={`text${text_color}`}>{children}</h1>        
+                  <p className ={`text${text_color}`}>{children}</p>        
                 </div>
         
         </div>
