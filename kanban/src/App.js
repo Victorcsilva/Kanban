@@ -1,5 +1,4 @@
 import './App.css';
-import Box from './components/Box/Box.js'
 import Card from './components/Card/Card.js';
 import Woman from './components/Avatar/Female.png'
 import Man from './components/Avatar/man.png'
@@ -28,7 +27,7 @@ function App() {
         <Card>
            <p>Coffee Break</p>
            <img src={Woman} className='img' alt='woman'></img>
-           <span span className='label_orange'>Always</span>
+           <span className='label_orange'>Always</span>
         </Card>
         <Card>
            <p>Updating Portfolio</p>
