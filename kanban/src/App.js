@@ -14,11 +14,11 @@ function App() {
      <Column color = "column1" >
         <img src = {require("./components/Icon/caderneta.png")} />
         <p className ="text">To Do</p> 
-         <Card>
+          <Card>
            <p>Christmas Banners</p>
            <img src={Man} className='img' alt='woman'></img>
            <span className='label'>Label</span>
-       </Card>
+          </Card>
         <Card>
            <p>Redo Portfolio</p>
            <img src={Man} className='img' alt='woman'></img>

@@ -3,8 +3,7 @@
     display: flex;
     flex-direction:initial;
     align-items: center;
-   
-    
+    justify-content: center;   
 }
 
 .column_border{
@@ -17,7 +16,8 @@
     height: 5px;
     border-radius: 4px 4px 0px 0px;
     margin: -340px -10px 0px -190px;
-    background: #0000001A;
+
+    align-items: center;
     
 }
 
@@ -82,7 +82,7 @@
 
 .text {
    
-    font-size: 35px;
+    font-size: 16px;
     font-family: 'roboto';
     font-weight: 700,bold;
     color: white;
@@ -92,7 +92,7 @@
 
 .text_text_color{
     color: black;
-    font-size: 35px;
+    font-size: 16px;
     font-family: 'roboto';
     font-weight: 700,bold;
     line-height: 18.75px;

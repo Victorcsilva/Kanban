@@ -6,7 +6,7 @@ function Card(props) {
     const {children,color,status} = props
     return (
             <div className='Card' >  
-                  <p className="text">{children}</p>
+                  <p className="textcard">{children}</p>
                   <span className={`label${color}`}>{status}</span>
             </div>
   )

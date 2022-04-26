@@ -5,9 +5,10 @@
     background: #FFFFFF;
     border-radius: 4px;
     margin-top: 10px;
+    margin-left: 10px;
 }
 
-.text{
+.textcard{
     font-size: 14px;
     font-family: 'roboto';
     font-weight: 500 Medium;
