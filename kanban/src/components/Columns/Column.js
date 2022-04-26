@@ -6,8 +6,8 @@ function Column(props) {
     return (
 
         <div className="column_Container">
-            <div className = "column_border">
-            </div>
+            <box className = "column_border">
+            </box>
                 <div className = {`column1 ${color}`}>
                   <p className ={`text${text_color}`}>{children}</p>        
                 </div>
