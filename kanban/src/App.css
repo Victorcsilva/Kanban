@@ -6,8 +6,9 @@
   gap: 2rem;
  background-image: url('../src/components/imagens/Home.png');
  background-repeat: no-repeat;
- background-position: center
-;}
+ background-position:center;
+justify-content: center;
+}
 .title{
   font-size: 38px;
   font-family: 'roboto';
