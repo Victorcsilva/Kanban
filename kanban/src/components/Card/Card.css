@@ -1,0 +1,67 @@
+.Card{
+    display:flex;
+    Width :280px;
+    Height:81px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.text{
+    font-size: 14px;
+    font-family: 'roboto';
+    font-weight: 500 Medium;
+    margin-top: 15px;
+    margin-left: 10px;
+ 
+}
+
+.label{
+    color : #FFFFFF;
+    font-size: 10px;
+    font-family: 'roboto';
+    font-weight:700 bold;
+    background: #59B4D1;
+   justify-content: center;
+    border-radius: 2px;
+    Gap:10px;
+    align-self: center;
+    width: 39px;
+    
+   
+}
+.label_orange{
+    color : #FFFFFF;
+    font-size: 10px;
+    font-family: 'roboto';
+    font-weight:700 bold;
+    background: #D0935A;
+   justify-content: center;
+    border-radius: 2px;
+    Gap:10px;
+    align-self: center;
+   
+}
+
+.label_purple{
+    color : #FFFFFF;
+    font-size: 10px;
+    font-family: 'roboto';
+    font-weight:700 bold;
+    background: #945AD1;
+    justify-content: center;
+    border-radius: 2px;
+    Gap:10px;
+   
+}
+.label_green{
+    color : #171717;
+    font-size: 10px;
+    font-family: 'roboto';
+    font-weight:700 bold;
+    background: #59D090;
+   justify-content: center;
+    border-radius: 2px;
+    Gap:10px;
+   
+}
